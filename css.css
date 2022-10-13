@@ -27,6 +27,9 @@
 }
 
 body {
-background-color: #d0dff7;
-text-align: center;
+  background-color: #d0dff7;
+}
+
+h1 {
+  text-align: center;
 }
